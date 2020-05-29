@@ -8,7 +8,6 @@ from .examples import copy_examples
 from .get_signatures import get_signature
 
 from . import utils
-from .utils import get_type
 
 
 class DocumentationGenerator:
